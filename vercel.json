@@ -1,0 +1,8 @@
+{
+    "redirects": [
+        {
+            "source": "/(.*)",
+            "destination": "https://registry.ap-southeast-1.aliyuncs.com/unvs$1"
+        }
+    ]
+}
