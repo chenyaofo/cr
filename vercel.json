@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/(.*)",
-            "destination": "https://registry.ap-southeast-1.aliyuncs.com/unvs/$1"
+            "destination": "https://registry.cn-hongkong.aliyuncs.com/$1"
         }
     ]
 }
