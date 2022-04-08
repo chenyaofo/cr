@@ -1,8 +1,8 @@
 {
     "redirects": [
         {
-            "source": "/v2",
-            "destination": "https://registry.cn-shenzhen.aliyuncs.com/v2",
+            "source": "/v2/",
+            "destination": "https://registry.cn-shenzhen.aliyuncs.com/v2/",
             "permanent": false
         },
         {
