@@ -1,12 +1,8 @@
 {
     "redirects": [
         {
-            "source": "/v2/",
-            "destination": "https://registry.cn-shenzhen.aliyuncs.com/v2/"
-        },
-        {
-            "source": "/v2/library/ubuntu(.*)",
-            "destination": "https://registry.cn-shenzhen.aliyuncs.com/v2/dockerhub-mirrors/ubuntu$1"
+            "source": "/(.*)",
+            "destination": "https://registry.ap-southeast-1.aliyuncs.com/$1"
         }
     ]
 }
