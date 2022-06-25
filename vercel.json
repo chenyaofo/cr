@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/v2(.*)",
-            "destination": "https://registry.ap-southeast-1.aliyuncs.com/v2$1"
+            "destination": "https://docker.mirrors.sjtug.sjtu.edu.cn/v2$1"
         }
     ]
 }
